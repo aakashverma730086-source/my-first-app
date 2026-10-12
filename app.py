@@ -1,4 +1,4 @@
-   import streamlit as st
+import streamlit as st
 
    st.title("My first demo app")
    text = st.text_input("Type a review")
